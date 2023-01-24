@@ -3,3 +3,4 @@ console.log(UI);
 console.log(a);
 console.log(b);
 console.log(d);
+console.log("Learned Import Export in ModuleJS");
